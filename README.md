@@ -9,7 +9,7 @@
 ----
 
 ![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=ayyse&count_private=true&show_icons=true&theme=graywhite) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayyse&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayyse&hide=css,scss,less,ruby,powershell,c,html&layout=compact)
 
 ----
 <p align="center">
