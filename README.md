@@ -15,8 +15,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayyse&show_icons=true&theme=synthwave" alt="ayyse :: Profile Stats" /></p>
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ayyse&theme=tokyonight)](https://git.io/praveenscience)
-
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=ayyse)](https://github.com/ayyse/github-readme-activity-graph)
 ----
 
 <p align="center">
