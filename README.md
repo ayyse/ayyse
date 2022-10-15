@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ayşe Akışık</h1>
+<h1>Hi 👋, I'm Ayşe Akışık</h1>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ayyse" alt="ayyse" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=ayyse" alt="ayyse" /> </p>
 
-<p align="center"> - 🔭 I’m currently a student of Adnan Menderes University</p>
-<p align="center"> - 👀 I’m interested in .Net Core, Angular</p>
-<p align="center"> - 📫 How to reach me: ayseakisik16@gmail.com</p>
+- I graduated from Adnan Menderes University in July 2022
+- I’m interested in .Net Core, Angular
+- How to reach me: **ayseakisik16@gmail.com**
 
 ----
 <h4 align="center">Top langs :tongue:</h4>
