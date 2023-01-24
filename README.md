@@ -3,19 +3,19 @@
 <p><img src="https://komarev.com/ghpvc/?username=ayyse" alt="ayyse" /> </p>
 
 - I graduated from Adnan Menderes University in July 2022
-- I’m interested in .Net Core, Angular
+- I’m interested in .Net Core, Express.js, Angular
 - How to reach me: **ayseakisik16@gmail.com**
 
 ----
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyse&theme=tokyonight&&hide=css,scss,less,ruby,powershell,c,html&layout=compact" alt="ayyse :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyse&hide=scss,less,ruby,powershell,c&layout=compact" alt="ayyse :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayyse&show_icons=true&theme=synthwave" alt="ayyse :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayyse&show_icons=true" alt="ayyse :: Profile Stats" /></p>
 
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=ayyse)](https://github.com/ayyse/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayyse)](https://github.com/ayyse/github-readme-activity-graph)
 ----
 
 <p align="center">
