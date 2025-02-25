@@ -1,15 +1,13 @@
-<h1>Hi 👋, I'm Ayşe Akışık</h1>
+<h1>Hi 👋, I'm Ayşe Gümrükçü</h1>
 
 <p><img src="https://komarev.com/ghpvc/?username=ayyse" alt="ayyse" /> </p>
 
-- I graduated from Adnan Menderes University in July 2022
-- I’m interested in .Net Core, Express.js, Angular
-- How to reach me: **ayseakisik16@gmail.com**
+- How to reach me: **aaysegumrukcu@gmail.com**
 
 ----
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,javascript,ts,html,css,angular,bootstrap,git,mysql,postgres,visualstudio,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,javascript,ts,html,css,angular,git,postgres,visualstudio,vscode&theme=light" />
   </a>
 </p>
 
@@ -26,6 +24,6 @@
 ----
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ayseaksk/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" /></a> 
+<a href="https://www.linkedin.com/in/aysegumrukcu/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" /></a> 
 <a href="https://stackoverflow.com/users/14502774/ay%c5%9fe-ak%c4%b1%c5%9f%c4%b1k" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow&theme=light" /></a>
 </p>
